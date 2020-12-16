@@ -77,7 +77,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: Who did it?
     subtitle: Scrabble is fun
     actions: []
     has_background: true
