@@ -27,7 +27,7 @@
             {
                 "label": "Scooter",
                 "url": "lorem-ipsum",
-                "style": "primary",
+                "style": "secondary",
                 "new_window": false,
                 "type": "action"
             },
