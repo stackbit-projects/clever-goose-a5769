@@ -81,7 +81,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     has_background: true
-    background_color: white
+    background_color: blue
     type: cta_section
 template: advanced
 ---
