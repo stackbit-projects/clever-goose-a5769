@@ -78,7 +78,7 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Scrabble is fun
     actions: []
     has_background: true
     background_color: blue
