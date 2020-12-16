@@ -1,6 +1,6 @@
 ---
 title: Holy hannah
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
