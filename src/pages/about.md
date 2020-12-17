@@ -38,17 +38,7 @@ sections:
   - title: Boo
     features:
       - title: Why though?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: So much lorem ipsum I want to puke!
         align: left
         image_position: left
         actions: []
