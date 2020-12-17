@@ -43,7 +43,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/goofy.png
+        image: images/5.png
       - title: lorem-ipsum
         content: For gods sake.
         align: left
