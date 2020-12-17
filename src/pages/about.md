@@ -35,5 +35,8 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 template: advanced
 ---
