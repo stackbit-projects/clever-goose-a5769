@@ -37,7 +37,7 @@ sections:
     background_color: blue
   - title: Boo
     features:
-      - title: lorem-ipsum
+      - title: Why though?
         content: >-
           ## Lorem ipsum
 
